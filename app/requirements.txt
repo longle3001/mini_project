@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+psycopg
+python-multipart
+fastembed
+qdrant-client
+pydantic-settings
